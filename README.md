@@ -29,5 +29,3 @@ incremental_tts
 - espnet2
 - pyaudio
 7. type and use. -> python incremental_tts.py
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
