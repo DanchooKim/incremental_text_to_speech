@@ -19,8 +19,8 @@ incremental_tts
 │	        ├── config.yaml
 │	        └── train.total_count.ave_10best.pth
 ├── gan_tts.py 
-├── incremental_tts.py 
-└── README.py
+└── incremental_tts.py 
+
 ```
                 
 4. install anaconda.
