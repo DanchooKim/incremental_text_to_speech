@@ -1,7 +1,5 @@
 Incremental Text-to-speech
 =============
-efficient incremental inference algorithm for fastspeech2 in espnet2
--------------
 How to use?
 -------------
 1. download pretrained tts+vocoder from https://zenodo.org/record/5498896
