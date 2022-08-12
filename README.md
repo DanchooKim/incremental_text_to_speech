@@ -5,24 +5,16 @@ How to use?
 1. download pretrained tts+vocoder from https://zenodo.org/record/5498896
 2. unzip the file.
 3. place the unzipped files like this:
-    incremental_tts
     
+    incremental_tts
         L exp
-        
             L stats 
-            
                 L train
-                
                     L energy_stats.npz
-                    
                     L feats_stats.npz
-                    
                     L pitch_stats.npz
-            
             L tts
-            
                 L config.yaml
-                
                 L train.total_count.ave_10best.pth
                 
 4. install anaconda.
