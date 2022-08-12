@@ -1,3 +1,9 @@
+Incremental Text-to-speech
+=============
+
+-------------
+How to use?
+-------------
 1. download pretrained tts+vocoder from https://zenodo.org/record/5498896
 2. unzip the file.
 3. place the unzipped files like this:
@@ -21,3 +27,4 @@
 7. type and use. -> python incremental_tts.py
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
