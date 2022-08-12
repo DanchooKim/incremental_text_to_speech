@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# written by Namhyeong Kim
+# written by Danchu Kim
 # stud088@ust.ac.kr 
 
 from typing import Union
