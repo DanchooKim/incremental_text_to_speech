@@ -8,7 +8,7 @@ How to use?
 ```
 incremental_tts
 ├── exp 
-|   ├── stats
+|   └── stats
 │	    ├── train
 │	    |   ├── energy_stats.npz
 │	    |   ├── energy_stats.npz
