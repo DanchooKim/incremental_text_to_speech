@@ -6,15 +6,25 @@ How to use?
 2. unzip the file.
 3. place the unzipped files like this:
     incremental_tts
+    
         L exp
+        
             L stats 
+            
                 L train
+                
                     L energy_stats.npz
+                    
                     L feats_stats.npz
+                    
                     L pitch_stats.npz
+            
             L tts
+            
                 L config.yaml
+                
                 L train.total_count.ave_10best.pth
+                
 4. install anaconda.
 5. make anaconda environments.(recommanded python version -> 3.7.4)
 6. install all python requirements in anaconda enviroments.
