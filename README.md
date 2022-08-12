@@ -1,5 +1,6 @@
-Incremental Text-to-speech
+Incremental text-to-speech
 =============
+A python implementation of incremental text-to-speech using fastspeech2.
 How to use?
 -------------
 1. download pretrained tts+vocoder from https://zenodo.org/record/5498896
