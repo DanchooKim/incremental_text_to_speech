@@ -15,14 +15,14 @@ How to use?
 ```
 incremental_tts
 ├── exp 
-|   ├── stats
-│	  ├── train
-│	  |   ├── energy_stats.npz
-│	  |   ├── energy_stats.npz
-│	  |   └── energy_stats.npz
-│	  └── tts
-│	      ├── config.yaml
-│	      └── train.total_count.ave_10best.pth
+|    ├── stats
+│    │    ├── train
+│    |    ├── energy_stats.npz
+│    |    ├── energy_stats.npz
+│    |    └── energy_stats.npz
+│	   └── tts
+│         ├── config.yaml
+│         └── train.total_count.ave_10best.pth
 ├── gan_tts.py 
 └── incremental_tts.py 
 
