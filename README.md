@@ -20,7 +20,7 @@ incremental_tts
 │    |    ├── energy_stats.npz
 │    |    ├── energy_stats.npz
 │    |    └── energy_stats.npz
-│	   └── tts
+│    └── tts
 │         ├── config.yaml
 │         └── train.total_count.ave_10best.pth
 ├── gan_tts.py 
