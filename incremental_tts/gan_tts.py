@@ -30,16 +30,6 @@ class Synthesizer(Text2Speech):
         self.vocoder = self.model.tts.generator['vocoder'].to(self.device[1])
         self.use_pqmf = True
         self.g2p = p_tokenizer.G2p_en(no_space=True)
-
-    @torch.no_grad()
-    def gan_tts_with_self_attention_view(
-        self,
-        text: Union[str, torch.Tensor, np.ndarray],
-        spembs: Union[torch.Tensor, np.ndarray] = None,
-        decode_conf: Optional[Dict[str, Any]] = None,
-        ) -> Dict[str, torch.Tensor]:
-        with torch.no_grad():
-            torch.cuda.empty_cache()
             
     def gan_tts(
         self,
